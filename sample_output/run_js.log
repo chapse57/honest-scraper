@@ -1,0 +1,21 @@
+2026-09-17 15:47:47,353 INFO    robots.txt returned 404 -> no rules, all allowed
+2026-09-17 15:47:47,564 INFO    [api] page 1: 10 quotes
+2026-09-17 15:47:48,564 INFO    [api] page 2: 10 quotes
+2026-09-17 15:47:49,565 INFO    [api] page 3: 10 quotes
+2026-09-17 15:47:54,600 INFO    [rendered] page 1: 10 quotes
+2026-09-17 15:47:55,426 INFO    [rendered] page 2: 10 quotes
+2026-09-17 15:47:56,404 INFO    [rendered] page 3: 10 quotes
+2026-09-17 15:47:56,509 INFO    api: 30 quotes from 3 pages, 0 failures, 2.2s
+2026-09-17 15:47:56,509 INFO    rendered: 30 quotes from 3 pages, 0 failures, 6.8s
+2026-09-17 15:47:56,510 INFO    cross-check: common=30, only api=0, only rendered=0
+2026-09-17 16:11:20,965 INFO    robots.txt returned 404 -> no rules, all allowed
+2026-09-17 16:11:21,179 INFO    [api] page 1: 10 quotes
+2026-09-17 16:11:22,176 INFO    [api] page 2: 10 quotes
+2026-09-17 16:11:23,179 INFO    [api] page 3: 10 quotes
+2026-09-17 16:11:27,954 INFO    [rendered] page 1: 10 quotes
+2026-09-17 16:11:28,758 INFO    [rendered] page 2: 10 quotes
+2026-09-17 16:11:29,661 INFO    [rendered] page 3: 10 quotes
+2026-09-17 16:11:29,759 INFO    change detection: first run: 30 items stored (no baseline to compare against)
+2026-09-17 16:11:29,766 INFO    api: 30 quotes from 3 pages, 0 failures, 2.2s
+2026-09-17 16:11:29,766 INFO    rendered: 30 quotes from 3 pages, 0 failures, 6.4s
+2026-09-17 16:11:29,766 INFO    cross-check: common=30, only api=0, only rendered=0

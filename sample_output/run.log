@@ -1,0 +1,202 @@
+2026-09-17 15:39:13,688 INFO    robots.txt returned 404 -> no rules, all allowed
+2026-09-17 15:39:14,342 INFO    listing page 1: 20 links
+2026-09-17 15:39:15,122 INFO    listing page 2: 20 links
+2026-09-17 15:39:16,125 INFO    listing page 3: 20 links
+2026-09-17 15:39:16,917 INFO    [1/62] ok A Light in the Attic
+2026-09-17 15:39:17,900 INFO    [2/62] ok Tipping the Velvet
+2026-09-17 15:39:19,109 INFO    [3/62] ok Soumission
+2026-09-17 15:39:20,099 INFO    [4/62] ok Sharp Objects
+2026-09-17 15:39:21,102 INFO    [5/62] ok Sapiens: A Brief History of Humankind
+2026-09-17 15:39:22,104 INFO    [6/62] ok The Requiem Red
+2026-09-17 15:39:23,108 INFO    [7/62] ok The Dirty Little Secrets of Getting Your Dream Job
+2026-09-17 15:39:24,108 INFO    [8/62] ok The Coming Woman: A Novel Based on the Life of the
+2026-09-17 15:39:25,107 INFO    [9/62] ok The Boys in the Boat: Nine Americans and Their Epi
+2026-09-17 15:39:26,106 INFO    [10/62] ok The Black Maria
+2026-09-17 15:39:26,906 INFO    [11/62] ok Starving Hearts (Triangular Trade Trilogy, #1)
+2026-09-17 15:39:28,107 INFO    [12/62] ok Shakespeare's Sonnets
+2026-09-17 15:39:29,107 INFO    [13/62] ok Set Me Free
+2026-09-17 15:39:30,108 INFO    [14/62] ok Scott Pilgrim's Precious Little Life (Scott Pilgri
+2026-09-17 15:39:31,110 INFO    [15/62] ok Rip it Up and Start Again
+2026-09-17 15:39:32,108 INFO    [16/62] ok Our Band Could Be Your Life: Scenes from the Ameri
+2026-09-17 15:39:33,106 INFO    [17/62] ok Olio
+2026-09-17 15:39:34,114 INFO    [18/62] ok Mesaerion: The Best Science Fiction Stories 1800-1
+2026-09-17 15:39:35,107 INFO    [19/62] ok Libertarianism for Beginners
+2026-09-17 15:39:36,112 INFO    [20/62] ok It's Only the Himalayas
+2026-09-17 15:39:37,118 INFO    [21/62] ok In Her Wake
+2026-09-17 15:39:38,113 INFO    [22/62] ok How Music Works
+2026-09-17 15:39:39,112 INFO    [23/62] ok Foolproof Preserving: A Guide to Small Batch Jams,
+2026-09-17 15:39:40,129 INFO    [24/62] ok Chase Me (Paris Nights #2)
+2026-09-17 15:39:41,114 INFO    [25/62] ok Black Dust
+2026-09-17 15:39:42,112 INFO    [26/62] ok Birdsong: A Story in Pictures
+2026-09-17 15:39:43,109 INFO    [27/62] ok America's Cradle of Quarterbacks: Western Pennsylv
+2026-09-17 15:39:44,113 INFO    [28/62] ok Aladdin and His Wonderful Lamp
+2026-09-17 15:39:44,915 INFO    [29/62] ok Worlds Elsewhere: Journeys Around Shakespeare’s Gl
+2026-09-17 15:39:46,112 INFO    [30/62] ok Wall and Piece
+2026-09-17 15:39:47,114 INFO    [31/62] ok The Four Agreements: A Practical Guide to Personal
+2026-09-17 15:39:48,122 INFO    [32/62] ok The Five Love Languages: How to Express Heartfelt 
+2026-09-17 15:39:49,114 INFO    [33/62] ok The Elephant Tree
+2026-09-17 15:39:50,115 INFO    [34/62] ok The Bear and the Piano
+2026-09-17 15:39:51,116 INFO    [35/62] ok Sophie's World
+2026-09-17 15:39:52,114 INFO    [36/62] ok Penny Maybe
+2026-09-17 15:39:53,118 INFO    [37/62] ok Maude (1883-1993):She Grew Up with the country
+2026-09-17 15:39:54,111 INFO    [38/62] ok In a Dark, Dark Wood
+2026-09-17 15:39:55,115 INFO    [39/62] ok Behind Closed Doors
+2026-09-17 15:39:56,116 INFO    [40/62] ok You can't bury them all: Poems
+2026-09-17 15:39:57,117 INFO    [41/62] ok Slow States of Collapse: Poems
+2026-09-17 15:39:58,122 INFO    [42/62] ok Reasons to Stay Alive
+2026-09-17 15:39:59,116 INFO    [43/62] ok Private Paris (Private #10)
+2026-09-17 15:40:00,115 INFO    [44/62] ok #HigherSelfie: Wake Up Your Life. Free Your Soul. 
+2026-09-17 15:40:01,118 INFO    [45/62] ok Without Borders (Wanderlove #1)
+2026-09-17 15:40:02,118 INFO    [46/62] ok When We Collided
+2026-09-17 15:40:03,123 INFO    [47/62] ok We Love You, Charlie Freeman
+2026-09-17 15:40:04,123 INFO    [48/62] ok Untitled Collection: Sabbath Poems 2014
+2026-09-17 15:40:05,121 INFO    [49/62] ok Unseen City: The Majesty of Pigeons, the Discreet 
+2026-09-17 15:40:06,123 INFO    [50/62] ok Unicorn Tracks
+2026-09-17 15:40:07,123 INFO    [51/62] ok Unbound: How Eight Technologies Made Us Human, Tra
+2026-09-17 15:40:07,921 INFO    [52/62] ok Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCL
+2026-09-17 15:40:09,128 INFO    [53/62] ok Throwing Rocks at the Google Bus: How Growth Becam
+2026-09-17 15:40:10,124 INFO    [54/62] ok This One Summer
+2026-09-17 15:40:11,119 INFO    [55/62] ok Thirst
+2026-09-17 15:40:12,122 INFO    [56/62] ok The Torch Is Passed: A Harding Family Story
+2026-09-17 15:40:12,922 INFO    [57/62] ok The Secret of Dreadwillow Carse
+2026-09-17 15:40:14,126 INFO    [58/62] ok The Pioneer Woman Cooks: Dinnertime: Comfort Class
+2026-09-17 15:40:15,120 INFO    [59/62] ok The Past Never Ends
+2026-09-17 15:40:16,122 INFO    [60/62] ok The Natural History of Us (The Fine Art of Pretend
+2026-09-17 15:40:16,910 ERROR   [61/62] FAIL https://books.toscrape.com/catalogue/this-book-does-not-exist_99999/index.html (HTTP 404)
+2026-09-17 15:40:18,344 ERROR   [62/62] PARSE FAIL https://books.toscrape.com/index.html (title not found)
+2026-09-17 15:40:18,368 INFO    done: 60 books, 2 failures, 0 duplicates -> C:\Users\washk\프리랜서\books-scraper\output
+2026-09-17 15:46:41,106 INFO    robots.txt returned 404 -> no rules, all allowed
+2026-09-17 15:46:41,757 INFO    listing page 1: 20 links
+2026-09-17 15:46:42,551 INFO    listing page 2: 20 links
+2026-09-17 15:46:43,549 INFO    listing page 3: 20 links
+2026-09-17 15:46:44,338 INFO    [1/62] ok A Light in the Attic
+2026-09-17 15:46:45,322 INFO    [2/62] ok Tipping the Velvet
+2026-09-17 15:46:46,526 INFO    [3/62] ok Soumission
+2026-09-17 15:46:47,529 INFO    [4/62] ok Sharp Objects
+2026-09-17 15:46:48,533 INFO    [5/62] ok Sapiens: A Brief History of Humankind
+2026-09-17 15:46:49,544 INFO    [6/62] ok The Requiem Red
+2026-09-17 15:46:50,532 INFO    [7/62] ok The Dirty Little Secrets of Getting Your Dream Job
+2026-09-17 15:46:51,536 INFO    [8/62] ok The Coming Woman: A Novel Based on the Life of the
+2026-09-17 15:46:52,563 INFO    [9/62] ok The Boys in the Boat: Nine Americans and Their Epi
+2026-09-17 15:46:53,536 INFO    [10/62] ok The Black Maria
+2026-09-17 15:46:54,332 INFO    [11/62] ok Starving Hearts (Triangular Trade Trilogy, #1)
+2026-09-17 15:46:55,536 INFO    [12/62] ok Shakespeare's Sonnets
+2026-09-17 15:46:56,534 INFO    [13/62] ok Set Me Free
+2026-09-17 15:46:57,532 INFO    [14/62] ok Scott Pilgrim's Precious Little Life (Scott Pilgri
+2026-09-17 15:46:58,536 INFO    [15/62] ok Rip it Up and Start Again
+2026-09-17 15:46:59,532 INFO    [16/62] ok Our Band Could Be Your Life: Scenes from the Ameri
+2026-09-17 15:47:00,537 INFO    [17/62] ok Olio
+2026-09-17 15:47:01,542 INFO    [18/62] ok Mesaerion: The Best Science Fiction Stories 1800-1
+2026-09-17 15:47:02,335 INFO    [19/62] ok Libertarianism for Beginners
+2026-09-17 15:47:03,544 INFO    [20/62] ok It's Only the Himalayas
+2026-09-17 15:47:04,538 INFO    [21/62] ok In Her Wake
+2026-09-17 15:47:05,546 INFO    [22/62] ok How Music Works
+2026-09-17 15:47:06,535 INFO    [23/62] ok Foolproof Preserving: A Guide to Small Batch Jams,
+2026-09-17 15:47:07,539 INFO    [24/62] ok Chase Me (Paris Nights #2)
+2026-09-17 15:47:08,542 INFO    [25/62] ok Black Dust
+2026-09-17 15:47:09,544 INFO    [26/62] ok Birdsong: A Story in Pictures
+2026-09-17 15:47:10,539 INFO    [27/62] ok America's Cradle of Quarterbacks: Western Pennsylv
+2026-09-17 15:47:11,541 INFO    [28/62] ok Aladdin and His Wonderful Lamp
+2026-09-17 15:47:12,545 INFO    [29/62] ok Worlds Elsewhere: Journeys Around Shakespeare’s Gl
+2026-09-17 15:47:13,341 INFO    [30/62] ok Wall and Piece
+2026-09-17 15:47:14,542 INFO    [31/62] ok The Four Agreements: A Practical Guide to Personal
+2026-09-17 15:47:15,547 INFO    [32/62] ok The Five Love Languages: How to Express Heartfelt 
+2026-09-17 15:47:16,542 INFO    [33/62] ok The Elephant Tree
+2026-09-17 15:47:17,544 INFO    [34/62] ok The Bear and the Piano
+2026-09-17 15:47:18,545 INFO    [35/62] ok Sophie's World
+2026-09-17 15:47:19,339 INFO    [36/62] ok Penny Maybe
+2026-09-17 15:47:20,540 INFO    [37/62] ok Maude (1883-1993):She Grew Up with the country
+2026-09-17 15:47:21,543 INFO    [38/62] ok In a Dark, Dark Wood
+2026-09-17 15:47:22,559 INFO    [39/62] ok Behind Closed Doors
+2026-09-17 15:47:23,547 INFO    [40/62] ok You can't bury them all: Poems
+2026-09-17 15:47:24,543 INFO    [41/62] ok Slow States of Collapse: Poems
+2026-09-17 15:47:25,344 INFO    [42/62] ok Reasons to Stay Alive
+2026-09-17 15:47:26,553 INFO    [43/62] ok Private Paris (Private #10)
+2026-09-17 15:47:27,545 INFO    [44/62] ok #HigherSelfie: Wake Up Your Life. Free Your Soul. 
+2026-09-17 15:47:28,551 INFO    [45/62] ok Without Borders (Wanderlove #1)
+2026-09-17 15:47:29,550 INFO    [46/62] ok When We Collided
+2026-09-17 15:47:30,556 INFO    [47/62] ok We Love You, Charlie Freeman
+2026-09-17 15:47:31,550 INFO    [48/62] ok Untitled Collection: Sabbath Poems 2014
+2026-09-17 15:47:32,553 INFO    [49/62] ok Unseen City: The Majesty of Pigeons, the Discreet 
+2026-09-17 15:47:33,546 INFO    [50/62] ok Unicorn Tracks
+2026-09-17 15:47:34,548 INFO    [51/62] ok Unbound: How Eight Technologies Made Us Human, Tra
+2026-09-17 15:47:35,554 INFO    [52/62] ok Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCL
+2026-09-17 15:47:36,547 INFO    [53/62] ok Throwing Rocks at the Google Bus: How Growth Becam
+2026-09-17 15:47:37,348 INFO    [54/62] ok This One Summer
+2026-09-17 15:47:38,555 INFO    [55/62] ok Thirst
+2026-09-17 15:47:39,557 INFO    [56/62] ok The Torch Is Passed: A Harding Family Story
+2026-09-17 15:47:40,346 INFO    [57/62] ok The Secret of Dreadwillow Carse
+2026-09-17 15:47:41,555 INFO    [58/62] ok The Pioneer Woman Cooks: Dinnertime: Comfort Class
+2026-09-17 15:47:42,556 INFO    [59/62] ok The Past Never Ends
+2026-09-17 15:47:43,559 INFO    [60/62] ok The Natural History of Us (The Fine Art of Pretend
+2026-09-17 15:47:44,341 ERROR   [61/62] FAIL https://books.toscrape.com/catalogue/this-book-does-not-exist_99999/index.html (HTTP 404)
+2026-09-17 15:47:45,773 ERROR   [62/62] PARSE FAIL https://books.toscrape.com/index.html (title not found)
+2026-09-17 15:47:45,784 INFO    done: 60 books, 2 failures, 0 duplicates -> C:\Users\washk\프리랜서\books-scraper\output
+2026-09-17 16:10:14,711 INFO    robots.txt returned 404 -> no rules, all allowed
+2026-09-17 16:10:15,375 INFO    listing page 1: 20 links
+2026-09-17 16:10:16,154 INFO    listing page 2: 20 links
+2026-09-17 16:10:17,144 INFO    listing page 3: 20 links
+2026-09-17 16:10:17,941 INFO    [1/62] ok A Light in the Attic
+2026-09-17 16:10:18,930 INFO    [2/62] ok Tipping the Velvet
+2026-09-17 16:10:20,133 INFO    [3/62] ok Soumission
+2026-09-17 16:10:21,156 INFO    [4/62] ok Sharp Objects
+2026-09-17 16:10:22,130 INFO    [5/62] ok Sapiens: A Brief History of Humankind
+2026-09-17 16:10:23,126 INFO    [6/62] ok The Requiem Red
+2026-09-17 16:10:24,128 INFO    [7/62] ok The Dirty Little Secrets of Getting Your Dream Job
+2026-09-17 16:10:25,133 INFO    [8/62] ok The Coming Woman: A Novel Based on the Life of the
+2026-09-17 16:10:26,126 INFO    [9/62] ok The Boys in the Boat: Nine Americans and Their Epi
+2026-09-17 16:10:27,133 INFO    [10/62] ok The Black Maria
+2026-09-17 16:10:27,932 INFO    [11/62] ok Starving Hearts (Triangular Trade Trilogy, #1)
+2026-09-17 16:10:29,137 INFO    [12/62] ok Shakespeare's Sonnets
+2026-09-17 16:10:30,129 INFO    [13/62] ok Set Me Free
+2026-09-17 16:10:31,135 INFO    [14/62] ok Scott Pilgrim's Precious Little Life (Scott Pilgri
+2026-09-17 16:10:32,130 INFO    [15/62] ok Rip it Up and Start Again
+2026-09-17 16:10:33,135 INFO    [16/62] ok Our Band Could Be Your Life: Scenes from the Ameri
+2026-09-17 16:10:34,143 INFO    [17/62] ok Olio
+2026-09-17 16:10:35,135 INFO    [18/62] ok Mesaerion: The Best Science Fiction Stories 1800-1
+2026-09-17 16:10:36,137 INFO    [19/62] ok Libertarianism for Beginners
+2026-09-17 16:10:37,135 INFO    [20/62] ok It's Only the Himalayas
+2026-09-17 16:10:38,146 INFO    [21/62] ok In Her Wake
+2026-09-17 16:10:39,143 INFO    [22/62] ok How Music Works
+2026-09-17 16:10:40,164 INFO    [23/62] ok Foolproof Preserving: A Guide to Small Batch Jams,
+2026-09-17 16:10:40,943 INFO    [24/62] ok Chase Me (Paris Nights #2)
+2026-09-17 16:10:42,138 INFO    [25/62] ok Black Dust
+2026-09-17 16:10:43,133 INFO    [26/62] ok Birdsong: A Story in Pictures
+2026-09-17 16:10:44,137 INFO    [27/62] ok America's Cradle of Quarterbacks: Western Pennsylv
+2026-09-17 16:10:45,137 INFO    [28/62] ok Aladdin and His Wonderful Lamp
+2026-09-17 16:10:46,147 INFO    [29/62] ok Worlds Elsewhere: Journeys Around Shakespeare’s Gl
+2026-09-17 16:10:46,938 INFO    [30/62] ok Wall and Piece
+2026-09-17 16:10:48,141 INFO    [31/62] ok The Four Agreements: A Practical Guide to Personal
+2026-09-17 16:10:49,139 INFO    [32/62] ok The Five Love Languages: How to Express Heartfelt 
+2026-09-17 16:10:50,136 INFO    [33/62] ok The Elephant Tree
+2026-09-17 16:10:51,145 INFO    [34/62] ok The Bear and the Piano
+2026-09-17 16:10:52,142 INFO    [35/62] ok Sophie's World
+2026-09-17 16:10:53,147 INFO    [36/62] ok Penny Maybe
+2026-09-17 16:10:54,140 INFO    [37/62] ok Maude (1883-1993):She Grew Up with the country
+2026-09-17 16:10:55,150 INFO    [38/62] ok In a Dark, Dark Wood
+2026-09-17 16:10:56,139 INFO    [39/62] ok Behind Closed Doors
+2026-09-17 16:10:57,167 INFO    [40/62] ok You can't bury them all: Poems
+2026-09-17 16:10:58,144 INFO    [41/62] ok Slow States of Collapse: Poems
+2026-09-17 16:10:59,143 INFO    [42/62] ok Reasons to Stay Alive
+2026-09-17 16:11:00,139 INFO    [43/62] ok Private Paris (Private #10)
+2026-09-17 16:11:01,144 INFO    [44/62] ok #HigherSelfie: Wake Up Your Life. Free Your Soul. 
+2026-09-17 16:11:02,140 INFO    [45/62] ok Without Borders (Wanderlove #1)
+2026-09-17 16:11:02,946 INFO    [46/62] ok When We Collided
+2026-09-17 16:11:04,140 INFO    [47/62] ok We Love You, Charlie Freeman
+2026-09-17 16:11:05,140 INFO    [48/62] ok Untitled Collection: Sabbath Poems 2014
+2026-09-17 16:11:06,142 INFO    [49/62] ok Unseen City: The Majesty of Pigeons, the Discreet 
+2026-09-17 16:11:07,141 INFO    [50/62] ok Unicorn Tracks
+2026-09-17 16:11:08,157 INFO    [51/62] ok Unbound: How Eight Technologies Made Us Human, Tra
+2026-09-17 16:11:09,142 INFO    [52/62] ok Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCL
+2026-09-17 16:11:10,145 INFO    [53/62] ok Throwing Rocks at the Google Bus: How Growth Becam
+2026-09-17 16:11:11,143 INFO    [54/62] ok This One Summer
+2026-09-17 16:11:12,154 INFO    [55/62] ok Thirst
+2026-09-17 16:11:13,144 INFO    [56/62] ok The Torch Is Passed: A Harding Family Story
+2026-09-17 16:11:14,141 INFO    [57/62] ok The Secret of Dreadwillow Carse
+2026-09-17 16:11:15,146 INFO    [58/62] ok The Pioneer Woman Cooks: Dinnertime: Comfort Class
+2026-09-17 16:11:16,145 INFO    [59/62] ok The Past Never Ends
+2026-09-17 16:11:17,148 INFO    [60/62] ok The Natural History of Us (The Fine Art of Pretend
+2026-09-17 16:11:17,940 ERROR   [61/62] FAIL https://books.toscrape.com/catalogue/this-book-does-not-exist_99999/index.html (HTTP 404)
+2026-09-17 16:11:19,358 ERROR   [62/62] PARSE FAIL https://books.toscrape.com/index.html (title not found)
+2026-09-17 16:11:19,390 INFO    change detection: first run: 60 items stored (no baseline to compare against)
+2026-09-17 16:11:19,401 INFO    done: 60 books, 2 failures, 0 duplicates -> C:\Users\washk\프리랜서\books-scraper\output

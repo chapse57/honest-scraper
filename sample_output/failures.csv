@@ -1,0 +1,3 @@
+﻿url,stage,reason,attempts
+https://books.toscrape.com/catalogue/this-book-does-not-exist_99999/index.html,fetch,HTTP 404,1
+https://books.toscrape.com/index.html,parse,title not found,1

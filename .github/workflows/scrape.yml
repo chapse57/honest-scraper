@@ -1,0 +1,46 @@
+name: daily scrape
+
+on:
+  schedule:
+    - cron: "17 21 * * *"      # 06:17 KST daily (odd minute: GitHub drops jobs scheduled at :00)
+  workflow_dispatch:           # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+
+      - name: tests (offline)
+        run: python -m pytest -q
+
+      - name: static site
+        run: python scraper.py --pages 3 --out data/latest --db data/scrape.db
+
+      - name: JS site (api + rendered, cross-checked)
+        run: python js_scraper.py --pages 3 --out data/latest --db data/scrape.db
+
+      - name: notify + job summary
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}    # optional: Slack/Discord/Telegram-bridge webhook
+        run: python notify.py --db data/scrape.db >> "$GITHUB_STEP_SUMMARY"
+
+      - name: commit results
+        run: |
+          git config user.name  "scrape-bot"
+          git config user.email "scrape-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "no changes" || git commit -m "scrape: $(date -u +%Y-%m-%d) $(python notify.py --db data/scrape.db --oneline)"
+          git push
