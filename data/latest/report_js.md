@@ -1,12 +1,12 @@
 # JS scrape report (quotes.toscrape.com/js)
 
-- Started: 2026-09-22 23:37:29
+- Started: 2026-09-23 23:42:47
 - robots.txt: robots.txt returned 404 -> no rules, all allowed
 
 | Strategy | Pages | Quotes | Failures | Requests | Time |
 |---|---|---|---|---|---|
-| api | 3 | 30 | 0 | 3 | 2.1s |
-| rendered | 3 | 30 | 0 | 3 | 2.9s |
+| api | 3 | 30 | 0 | 3 | 2.0s |
+| rendered | 3 | 30 | 0 | 3 | 2.7s |
 
 ## Cross-check (api vs rendered)
 
