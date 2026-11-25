@@ -1,6 +1,6 @@
 # Scrape run report
 
-- Started: 2026-11-24 05:19:29
+- Started: 2026-11-25 04:11:07
 - Duration: 62.1s
 - robots.txt: robots.txt returned 404 -> no rules, all allowed
 - Listing pages crawled: 3
